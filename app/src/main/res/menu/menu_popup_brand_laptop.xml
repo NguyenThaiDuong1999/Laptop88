@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Tất cả"
+        android:id="@+id/menuAll"/>
+    <item
+        android:title="Dell"
+        android:id="@+id/menuDell"/>
+    <item
+        android:title="HP"
+        android:id="@+id/menuHP"/>
+    <item
+        android:title="LG"
+        android:id="@+id/menuLG"/>
+    <item
+        android:title="MacBook"
+        android:id="@+id/menuMacBook"/>
+    <item
+        android:title="Asus"
+        android:id="@+id/menuAsus"/>
+    <item
+        android:title="Acer"
+        android:id="@+id/menuAcer"/>
+    <item
+        android:title="Lenovo"
+        android:id="@+id/menuLenovo"/>
+    <item
+        android:title="MSI"
+        android:id="@+id/menuMSI"/>
+</menu>

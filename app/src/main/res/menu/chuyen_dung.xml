@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Sinh viên văn phòng"
+        android:id="@+id/menuSVVP"/>
+    <item
+        android:title="Gaming đồ họa"
+        android:id="@+id/menuGDH"/>
+    <item
+        android:title="Doanh nhân"
+        android:id="@+id/menuDN"/>
+</menu>

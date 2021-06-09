@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuAll"
+        android:title="Tất cả"/>
+    <item
+        android:id="@+id/menu_duoi_5_trieu"
+        android:title="Dưới 5 triệu" />
+    <item
+        android:id="@+id/menu_tu_5_den_10_trieu"
+        android:title="Từ 5-10 triệu" />
+    <item
+        android:id="@+id/menu_tu_10_trieu_den_20_trieu"
+        android:title="Từ 10-20 triệu" />
+    <item
+        android:id="@+id/menu_tren_20_trieu"
+        android:title="Trên 20 triệu" />
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_All"
+        android:title="Tất cả"/>
+    <item
+        android:id="@+id/menu_chuot"
+        android:title="Chuột"/>
+    <item
+        android:id="@+id/menu_ram"
+        android:title="Ram"/>
+    <item
+        android:id="@+id/menu_HDD"
+        android:title="HDD"/>
+    <item
+        android:id="@+id/menu_SSD"
+        android:title="SSD"/>
+    <item
+        android:id="@+id/menu_BanPhim"
+        android:title="Bàn phím"/>
+    <item
+        android:id="@+id/menu_Card"
+        android:title="Card đồ họa"/>
+</menu>

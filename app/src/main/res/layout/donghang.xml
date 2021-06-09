@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/_7sdp"
+    android:paddingRight="@dimen/_7sdp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgHang"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tvTenHang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#000000" />
+</LinearLayout>

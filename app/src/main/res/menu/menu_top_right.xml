@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuHome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Trang chủ"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuCart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuBaoHanhHauMai"
+        android:title="Bảo hành hậu mãi" />
+    <item
+        android:id="@+id/menuLienHe"
+        android:title="Liên hệ">
+        <menu>
+            <item
+                android:id="@+id/menuBanHangOnline"
+                android:icon="@drawable/ic_call_black_24dp"
+                android:title="Bán hàng online" />
+            <item
+                android:id="@+id/menuChamSocKhachHang"
+                android:icon="@drawable/ic_call_black_24dp"
+                android:title="Chăm sóc khách hàng" />
+        </menu>
+    </item>
+</menu>

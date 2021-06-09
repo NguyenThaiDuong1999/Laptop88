@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuAll"
+        android:title="Tất cả" />
+    <item
+        android:id="@+id/menuCorsair"
+        android:title="Corsair" />
+    <item
+        android:id="@+id/menuKingston"
+        android:title="Kingston" />
+    <item
+        android:id="@+id/menuApacer"
+        android:title="Apacer" />
+    <item
+        android:id="@+id/menuWD"
+        android:title="WD" />
+    <item
+        android:id="@+id/menuIntel"
+        android:title="Intel" />
+    <item
+        android:id="@+id/menuGigabyte"
+        android:title="Gigabyte" />
+    <item
+        android:id="@+id/menuSeagate"
+        android:title="Seagate" />
+    <item
+        android:id="@+id/menuLogitech"
+        android:title="Logitech" />
+</menu>
